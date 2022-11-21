@@ -1,4 +1,4 @@
-node_modules
+**/node_modules
 domain-starter-project/node_modules
 .env
 coverage
